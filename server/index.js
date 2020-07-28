@@ -35,3 +35,5 @@ app.listen(port, () => console.log(`I'll be right by your side, running on port 
 //endpoints in between. order matters.
 
 //app.get(`${url}`, ctrl. getStuff) Could use this instead of the endpoints above if you declare const url = "/api/todos" etc.
+
+//Try redoing this and seeing if I can replicate it. Review array methods. Also, Rob says that in SQL we won't need to do as much of that (it'll be easier).
